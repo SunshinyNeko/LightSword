@@ -1,5 +1,7 @@
 # LightSword
 
+[![Join the chat at https://gitter.im/SunshinyNeko/LightSword](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/SunshinyNeko/LightSword?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/SunshinyNeko/LightSword.svg)](https://travis-ci.org/SunshinyNeko/LightSword)
 
 光刃——基于 Node.js 的 SOCKS5 代理。
